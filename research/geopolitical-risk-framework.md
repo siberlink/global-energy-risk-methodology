@@ -17,8 +17,9 @@ Geopolitical risk refers to:
 
 These events directly impact:
 
-- Oil supply  
-- Gas flows  
+- Oil supply
+- [European LNG Supply & Demand](https://energyriskiq.com/data/europe-lng-supply-demand)
+- [Gas storage levels in Europe](https://energyriskiq.com/gas-storage-levels-in-europe)  
 - Energy infrastructure  
 - Market confidence  
 
@@ -95,6 +96,10 @@ With a framework:
 👉 https://energyriskiq.com  
 
 👉 https://energyriskiq.com/indices/global-energy-risk-index  
+
+👉 https://energyriskiq.com/gas-storage-levels-in-europe
+
+👉 https://energyriskiq.com/data/europe-lng-supply-demand
 
 ---
 
