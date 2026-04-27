@@ -20,8 +20,9 @@ These include:
 - War and geopolitical conflict  
 - Sanctions and trade restrictions  
 - Infrastructure disruptions (pipelines, LNG terminals)  
-- Supply-demand imbalances  
-- Market sentiment and volatility  
+- [LNG Supply-demand imbalances in Europe](https://energyriskiq.com/data/europe-lng-supply-demand) 
+- Market sentiment and volatility
+- [Energy Risk Forecaster](https://energyriskiq.com/data/global-energy-risk-forecast) 
 
 Even small disruptions can lead to **large price movements and systemic instability**.
 
@@ -85,6 +86,8 @@ Explore live data and analysis:
 👉 https://energyriskiq.com  
 
 👉 https://energyriskiq.com/indices/global-energy-risk-index  
+
+👉 https://energyriskiq.com/gas-storage-levels-in-europe
 
 ---
 
