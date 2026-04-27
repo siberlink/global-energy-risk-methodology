@@ -46,7 +46,7 @@ Markets can remain stable while:
 
 - Conflict intensity increases  
 - Supply routes become vulnerable  
-- Storage levels decline  
+- [Gas storage levels](https://energyriskiq.com/gas-storage-levels-in-europe) decline  
 
 This creates a **false sense of stability**.
 
@@ -87,6 +87,8 @@ Markets move not just on reality, but on **perceived future risk**.
 👉 https://energyriskiq.com  
 
 👉 https://energyriskiq.com/research/global-energy-risk-index  
+
+👉 https://energyriskiq.com/data/global-energy-risk-forecast
 
 ---
 
